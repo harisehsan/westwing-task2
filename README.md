@@ -1,1 +1,2 @@
 # westwing-task2
+By using automated test scenarios, this project verify the searching of the given product and then add the first item from available catalog into the wishlist then deleting it from the wishlist on "westwing.de" website. The frameworks are used in this project are Selenium (UI Auomation), Cucumber(BDD) and TestNG (Assertion). Maven is used for build system and the programming logics for automation are done in the Java language. POM (Page Object Model) design pattern is used.  
