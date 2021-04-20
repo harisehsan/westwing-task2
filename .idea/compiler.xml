@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="WestWingNow Task 2" />
+        <module name="Clark QA Project" />
+        <module name="ClarkQATest" />
       </profile>
     </annotationProcessing>
   </component>

@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/test/java/pageobject/AngebotePageObject.java" line="31" mnemonic="9" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dda95ee2-d577-492c-b079-795857463fe8" name="Default Changelist" comment="" />
+    <list default="true" id="dda95ee2-d577-492c-b079-795857463fe8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Properties/AngeboteInitilizeProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Properties/AngeboteProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WestWing-Task1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/base/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/features/westwingtask2.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/angebote.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageobject/WestWingNowPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobject/AngebotePageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/WestWingNow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/AngebotePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/WestWingSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/AngeboteSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/SeleniumHomework4-2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/base/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/base/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageobject/WestWingNowPageObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/WestWingNow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/Hooks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/WestWingSteps.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/base/Base.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -37,27 +58,66 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/dictionaries/Haris_Ehsan.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/base/Hooks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            <state relative-caret-position="204">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/AngebotePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="122" column="55" selection-start-line="122" selection-start-column="55" selection-end-line="122" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/test/java/Properties/AngeboteInitilizeProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Properties/AngeboteProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="91" column="18" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pageobject/AngebotePageObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="36" column="59" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/features/angebote.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -65,40 +125,15 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/WestWingNow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1614010869240" expanded="true" signature="2321:2770" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/steps/WestWingSteps.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/steps/AngeboteSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+            <state relative-caret-position="1088">
+              <caret line="85" column="73" selection-start-line="85" selection-start-column="73" selection-end-line="85" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1342#1343#0" expanded="true" />
-                <element signature="e#1390#1391#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pageobject/WestWingNowPageObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#862#863#0" expanded="true" />
+                <element signature="e#916#917#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,20 +152,42 @@
     <findStrings>
       <find>.CountBubble__StyledBadgeCount</find>
       <find>boolean</find>
+      <find>&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; Hello How are you!</find>
+      <find>Pas</find>
+      <find>angeboteProperties.</find>
+      <find>dumm</find>
+      <find>Dumm</find>
+      <find>public</find>
+      <find>Ho</find>
     </findStrings>
+    <replaceStrings>
+      <replace>protected</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/base/Hooks.java" />
         <option value="$PROJECT_DIR$/src/test/java/steps/SuccessCheckoutSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/features/westwingtask2.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/steps/WestWingSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/java/steps/Hooks.java" />
         <option value="$PROJECT_DIR$/src/test/java/pageobject/WestWingNowPageObject.java" />
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/base/Base.java" />
+        <option value="$PROJECT_DIR$/src/test/java/features/HappyPathAutomation.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/steps/Hooks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/base/Hooks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/features/Angbote.feature" />
         <option value="$PROJECT_DIR$/src/test/java/pages/WestWingNow.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steps/WestWingSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Properties/AngeboteProperties.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Properties/AngeboteInitilizeProperties.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ClarkHappyFlowRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/steps/AngeboteSteps.java" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/features/angebote.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/AngebotePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/base/Base.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pageobject/AngebotePageObject.java" />
       </list>
     </option>
   </component>
@@ -152,84 +209,90 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
-    <option name="y" value="91" />
-    <option name="width" value="1026" />
-    <option name="height" value="546" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1380" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="westwingnow-task2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="westwingnow-task2" type="462c0819:PsiDirectoryNode" />
+              <item name="ClarkQATest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClarkQATest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="westwingnow-task2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="westwingnow-task2" type="462c0819:PsiDirectoryNode" />
+              <item name="ClarkQATest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClarkQATest" type="462c0819:PsiDirectoryNode" />
               <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="westwingnow-task2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="westwingnow-task2" type="462c0819:PsiDirectoryNode" />
+              <item name="ClarkQATest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClarkQATest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="westwingnow-task2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="westwingnow-task2" type="462c0819:PsiDirectoryNode" />
+              <item name="ClarkQATest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClarkQATest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="westwingnow-task2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="westwingnow-task2" type="462c0819:PsiDirectoryNode" />
+              <item name="ClarkQATest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClarkQATest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="westwingnow-task2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="westwingnow-task2" type="462c0819:PsiDirectoryNode" />
+              <item name="ClarkQATest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClarkQATest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="westwingnow-task2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="westwingnow-task2" type="462c0819:PsiDirectoryNode" />
+              <item name="ClarkQATest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClarkQATest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="westwingnow-task2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="westwingnow-task2" type="462c0819:PsiDirectoryNode" />
+              <item name="ClarkQATest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClarkQATest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pageobject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="westwingnow-task2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="westwingnow-task2" type="462c0819:PsiDirectoryNode" />
+              <item name="ClarkQATest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClarkQATest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="westwingnow-task2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="westwingnow-task2" type="462c0819:PsiDirectoryNode" />
+              <item name="ClarkQATest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClarkQATest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Properties" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ClarkQATest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ClarkQATest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -239,11 +302,25 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="steps" />
+      <recent name="pages" />
+      <recent name="pageobject" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Haris\GitRepo\westwing-task2\src\test\java\features" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -257,15 +334,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber java.Feature: westwingtask2">
-    <configuration name="Feature: Checkout" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber java.Feature: angebote (2)">
+    <configuration name="Feature: Angbote" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="4" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Checkout.feature" />
-      <option name="GLUE" value="steps" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/Angbote.feature" />
+      <option name="GLUE" value="base" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="SeleniumHomework4-2" />
+      <module name="Happy-Flow-Automation" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: Checkout" />
+      <option name="SUGGESTED_NAME" value="Feature: Angbote" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -276,12 +353,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Feature: westwingtask2" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: angebote (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="4" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/westwingtask2.feature" />
-      <option name="GLUE" value="steps" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/angebote.feature" />
+      <option name="GLUE" value="base steps" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="SeleniumHomework4-2" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: angebote" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: angebote (2)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/angebote.feature" />
+      <option name="GLUE" value="base steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="ClarkQATest" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: angebote" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: angebote" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/angebote.feature" />
+      <option name="GLUE" value="base steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Happy-Flow-Automation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: angebote" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: westwingtask2 (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/westwingtask2.feature" />
+      <option name="GLUE" value="base steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Happy-Flow-Automation" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
       <option name="SUGGESTED_NAME" value="Feature: westwingtask2" />
       <extension name="coverage">
@@ -296,8 +427,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber java.Feature: westwingtask2" />
-        <item itemvalue="Cucumber java.Feature: Checkout" />
+        <item itemvalue="Cucumber java.Feature: angebote (2)" />
+        <item itemvalue="Cucumber java.Feature: angebote (1)" />
+        <item itemvalue="Cucumber java.Feature: angebote" />
+        <item itemvalue="Cucumber java.Feature: Angbote" />
+        <item itemvalue="Cucumber java.Feature: westwingtask2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -315,42 +449,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Feature__westwingtask2 - 2021.02.22 at 20h 32m 56s.xml">
-      <configuration name="Feature: westwingtask2" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__angebote_(1) - 2021.04.17 at 21h 23m 17s.xml">
+      <configuration name="Feature: angebote (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__westwingtask2 - 2021.02.22 at 20h 37m 21s.xml">
-      <configuration name="Feature: westwingtask2" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__angebote_(1) - 2021.04.17 at 21h 24m 16s.xml">
+      <configuration name="Feature: angebote (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__westwingtask2 - 2021.02.22 at 20h 41m 43s.xml">
-      <configuration name="Feature: westwingtask2" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__angebote_(1) - 2021.04.17 at 21h 25m 01s.xml">
+      <configuration name="Feature: angebote (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__westwingtask2 - 2021.02.22 at 20h 44m 59s.xml">
-      <configuration name="Feature: westwingtask2" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__angebote_(1) - 2021.04.17 at 21h 25m 27s.xml">
+      <configuration name="Feature: angebote (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__westwingtask2 - 2021.02.22 at 20h 46m 12s.xml">
-      <configuration name="Feature: westwingtask2" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__angebote_(1) - 2021.04.17 at 21h 26m 13s.xml">
+      <configuration name="Feature: angebote (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__westwingtask2 - 2021.02.22 at 20h 49m 04s.xml">
-      <configuration name="Feature: westwingtask2" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__angebote_(1) - 2021.04.17 at 21h 26m 43s.xml">
+      <configuration name="Feature: angebote (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__westwingtask2 - 2021.02.22 at 20h 52m 53s.xml">
-      <configuration name="Feature: westwingtask2" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__angebote_(1) - 2021.04.17 at 21h 27m 25s.xml">
+      <configuration name="Feature: angebote (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__westwingtask2 - 2021.02.22 at 20h 57m 40s.xml">
-      <configuration name="Feature: westwingtask2" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__angebote_(2) - 2021.04.19 at 14h 10m 37s.xml">
+      <configuration name="Feature: angebote (2)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__westwingtask2 - 2021.02.22 at 20h 58m 20s.xml">
-      <configuration name="Feature: westwingtask2" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__angebote_(2) - 2021.04.19 at 20h 25m 29s.xml">
+      <configuration name="Feature: angebote (2)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Feature__westwingtask2 - 2021.02.22 at 21h 02m 37s.xml">
-      <configuration name="Feature: westwingtask2" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Feature__angebote_(2) - 2021.04.19 at 20h 25m 53s.xml">
+      <configuration name="Feature: angebote (2)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="1380" height="735" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3343419" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4227273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -358,9 +491,9 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32993197" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23469388" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298791" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298791" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.45918366" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -431,20 +564,58 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/ProductDetailsPage.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/steps/SuccessCheckoutSteps.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/steps/Hooks.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/HappyPathAutomation.feature" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject/WestWingNowPageObject.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/Alert.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AuthenticateScript.exe" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/westwingtask2.feature" />
+    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/Haris_Ehsan.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/WestWingNow.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/WestWingSteps.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ClarkHappyFlowRunner.java" />
+    <entry file="file://$PROJECT_DIR$/src/HandleAuthticationAlert.exe">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml" />
+    <entry file="file://$PROJECT_DIR$/README.txt" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Runtime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1272#1273#0" expanded="true" />
+            <element signature="e#1309#1310#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/features/westwingtask2.feature">
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        <state relative-caret-position="119">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/base/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -455,64 +626,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/Haris_Ehsan.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/base/Hooks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        <state relative-caret-position="204">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Properties/AngeboteInitilizeProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Properties/AngeboteProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="91" column="18" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/base/Base.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/AngeboteSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+        <state relative-caret-position="1088">
+          <caret line="85" column="73" selection-start-line="85" selection-start-column="73" selection-end-line="85" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+            <element signature="e#916#917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/AngebotePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="122" column="55" selection-start-line="122" selection-start-column="55" selection-end-line="122" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/steps/WestWingSteps.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/features/angebote.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1342#1343#0" expanded="true" />
-            <element signature="e#1390#1391#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="204">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject/WestWingNowPageObject.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pageobject/AngebotePageObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="177">
+          <caret line="36" column="59" selection-start-line="36" selection-start-column="59" selection-end-line="36" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/WestWingNow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1614010869240" expanded="true" signature="2321:2770" ph="..." />
           </folding>
         </state>
       </provider>

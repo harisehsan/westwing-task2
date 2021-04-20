@@ -1,19 +1,17 @@
 package base;
 
 import org.openqa.selenium.*;
-import org.openqa.selenium.interactions.Action;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
-import java.util.List;
+import java.io.IOException;
 
 public class Base {
 
     protected WebDriver driver;
     private static final int DEFAULT_TIMEOUT = 60;
 
-    public Base() {
+    public Base(WebDriver driver) {
 
     }
 
@@ -40,35 +38,14 @@ public class Base {
         new WebDriverWait(driver, DEFAULT_TIMEOUT).until(ExpectedConditions.visibilityOf(ele));
     }
 
-    protected void waitUntilVisibility(By by, int timeOutInSeconds) {
-        new WebDriverWait(driver, timeOutInSeconds)
-                .until(ExpectedConditions.visibilityOfElementLocated(by));
-    }
-
     protected void goToPage(String url)
     {
         driver.navigate().to(url);
     }
 
-    protected void waitLongUntilInvisibilityOf(By by, int time) {
-        new WebDriverWait(driver, time)
-                .until(ExpectedConditions.invisibilityOfElementLocated(by));
-    }
-
-    protected void clickOnFirstElement (List<WebElement> ele) { // This method is used to click on the element by avoiding any kind of exception of interception
-
-            try {
-               ele.get(0).click();
-
-            } catch (Exception ex) {
-                ex.printStackTrace();
-                waitUntilVisible(ele.get(0));
-                Actions action = new Actions(driver);
-                hover(ele.get(0));
-                action.click(ele.get(0));
-                Action ob = action.build();
-                ob.perform();
-            }
+    protected void scrollToView(WebElement ele) throws InterruptedException {
+        ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView();", ele);
+        Thread.sleep(3000);
     }
 
     protected boolean booleanwaitUntilPresentOfElementBy(By by, int timeout) {
@@ -79,5 +56,9 @@ public class Base {
         } catch (Exception e) {
             return false;
         }
+    }
+
+    protected void HandleBrowserAuthentication() throws IOException {
+       Runtime.getRuntime().exec("src\\HandleAuthticationAlert.exe");
     }
 }
